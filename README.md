@@ -17,6 +17,6 @@
 ![SQL](https://img.shields.io/badge/SQL-Certified-blue?logo=databricks)
 ![Problem Solving](https://img.shields.io/badge/Problem%20Solving-Active-brightgreen)
 
-[![](https://visitcount.itsvg.in/api?id=Hemanath_Kumar&icon=9&color=7)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
