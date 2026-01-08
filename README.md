@@ -13,7 +13,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hemanath_Kumar&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![HackerRank](https://img.shields.io/badge/HackerRank-hemanath_kumar_r-00EA64?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/hemanath_kumar_r)
 [![](https://visitcount.itsvg.in/api?id=Hemanath_Kumar&icon=9&color=7)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
