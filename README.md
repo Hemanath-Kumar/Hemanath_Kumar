@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Hemanath Kumar R<br><br>🎓 Computer Science Undergraduate (B.Tech – IT)<br>💻 Full-Stack Developer | Machine Learning Enthusiast<br><br>I have hands-on experience in full-stack web development and machine learning, with a strong focus on building practical, real-world applications using Python and Django. I enjoy solving problems, working with data, and developing scalable backend systems.<br><br>🛠️ Technical Skills<br><br>Programming Languages<br><br>Python, JavaScript, SQL, HTML, CSS<br><br>Frameworks & Technologies<br><br>Django, Django REST Framework (DRF), React<br><br>REST APIs, MVC Architecture, OOP<br><br>Machine Learning & Data<br><br>NumPy, Pandas, Scikit-learn<br><br>Data Cleaning, EDA, Basic ML Models<br><br>Tools<br><br>Git, GitHub, VS Code<br><br>🎯 Interests<br><br>Machine Learning & AI<br><br>Backend & Full-Stack Development<br><br>Building scalable web applications
+💫 About Me<br><br>👋 Hi, I’m Hemanath Kumar R<br>🎓 Computer Science Undergraduate (B.Tech – IT)<br>💻 Full-Stack Developer | Machine Learning Enthusiast<br><br>I have hands-on experience in full-stack web development and machine learning, with a strong focus on building practical, real-world applications using Python and Django. I enjoy solving problems, working with data, and developing scalable backend systems.<br><br>🛠️ Technical Skills<br><br>🔹Programming Languages:<br><br>     Python , JavaScript , SQL , HTML , CSS<br><br>🔹Tools:<br><br>      Git , GitHub , VS Code<br><br>🎯 Interests<br><br>      Machine Learning & Artificial Intelligence<br><br>      Backend & Full-Stack Development<br><br>      Building Scalable Web Applications
 
 
 ## 🌐 Socials:
@@ -13,6 +13,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hemanath_Kumar&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Hemanath_Kumar&icon=0&color=4)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Hemanath_Kumar&icon=9&color=7)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
